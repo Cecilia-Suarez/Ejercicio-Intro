@@ -1,6 +1,5 @@
 
 # Ejercicio-Intro
 Diego Perez
-Daniel Aranivar
+Daniel Aranivar :zipper_mouth_face: 
 Cecilia Suarez :grinning:
-
